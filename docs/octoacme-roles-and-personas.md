@@ -97,7 +97,7 @@ QA/Testing Leads own the quality assurance strategy, test planning, and acceptan
 
 ### Responsibilities
 - Develop and maintain test plans and QA strategies
-- Design and execute unit, integration, and end-to-end tests
+- Define coverage expectations and execute integration, end-to-end, and acceptance testing
 - Validate acceptance criteria and feature acceptance
 - Identify and document defects with clear reproduction steps
 - Contribute to Definition of Done (DoD) criteria
